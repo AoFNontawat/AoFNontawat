@@ -8,9 +8,9 @@ I am working as a Project manager in a gaming industry company.
 * 🧠  I'm learning project management, game development, web delevopment
 
 ### Experience
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,py,html,css,js,react,godot,unity,git,notion,figma,firebase&perline=7" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,py,html,css,js,react,godot,unity,git,notion,figma,firebase" />
   </a>
 </p>
 

@@ -1,6 +1,5 @@
-Hi 👋 My name is Nontawat Udprom
+Nontawat Udprom
 ================================
-
 Project manager
 ---------------
 

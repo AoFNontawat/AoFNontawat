@@ -1,13 +1,11 @@
 Nontawat Udprom
-================================
-Project manager
 ---------------
 
-I am working as a Project manager in a gaming industry company. I am interested in studying project management, game development, web development, and data analysis.
+I am working as a Project manager in a gaming industry company. 
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [Nontawatt.udprom@gmail.com](mailto:Nontawatt.udprom@gmail.com)
-* 🧠  I'm learning project manager, game development, web delevopment
+* 🧠  I'm learning project management, game development, web delevopment
 
 ### Skills
 
@@ -21,4 +19,4 @@ I am working as a Project manager in a gaming industry company. I am interested 
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/AoFNontawat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AoFNontawat&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)

@@ -9,10 +9,10 @@ I am working as a project manager in a gaming industry company.
 
 
 ### Interest
-* project management
-* game development
-* web development
-* data science
+* Project management
+* Game development
+* Web development
+* Data science
 
 
 #### Contact me at email :  nontawatt.udprom@gmail.com

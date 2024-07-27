@@ -15,8 +15,8 @@ I am working as a project manager in a gaming industry company.
 * data science
 
 
+#### Contact me at email :  nontawatt.udprom@gmail.com
 --------------
-* contact me at nontawatt.udprom@gmail.com
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,py,cpp,godot,cs,unity,vscode,git,firebase,figma,notion&perline=15" />

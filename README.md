@@ -4,14 +4,14 @@ Nontawat Udprom
 I am working as a project manager in a gaming industry company. 
 
 ### Project
-* Scootic - predictive modeling of scooter usage
 * Sweetymily - eCommerce website (In progress)
+* Scootic - predictive modeling of scooter usage
 
 
 ### Interest
 * Project management
 * Game development
-* Web development
+* Software development
 * Data science
 
 

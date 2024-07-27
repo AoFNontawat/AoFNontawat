@@ -15,6 +15,5 @@ I am working as a Project manager in a gaming industry company.
 </p>
 
 
-<b>My GitHub Stats</b>
-
+### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)

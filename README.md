@@ -23,9 +23,6 @@ I am working as a project manager in a gaming industry company.
   </a>
 </p>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
 --------------
 
 
